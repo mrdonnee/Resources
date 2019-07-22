@@ -5,7 +5,7 @@ LP and DN will use this repo to share and store notes, projects, ideas, etc.
 List of current projects:
 
 1. Cleaning and displaying data from DaddyCon 2018 -07/2019
-2. 
+2. CAD Data Entry for MMH Clinicl Trial - 07/2019
 3. 
 
 List of upcomming projects:
@@ -16,6 +16,6 @@ List of upcomming projects:
 
 Ideas and potential projects:
 
-1. Does our minion project are representable?
+1. Does our minion project are representable? [Sure, we can include our minion project! =)]
 2. 
 3.
